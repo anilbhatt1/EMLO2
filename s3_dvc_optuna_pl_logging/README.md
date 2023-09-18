@@ -1,0 +1,4 @@
+- Refer github : https://github.com/anilbhatt1/emlo2_s3_dvc_optuna_tblogging/tree/master for code
+- EMLO2_S3_dvc_optuna_logger_VEMLO2_S3_Optuna_PyTorch_Example.ipynb -> To see how optuna works with pytorch and get an understanding about trials and study
+- EMLO2_S3_dvc_optuna_logger_V1.ipynb -> Colab notebook where "per step logging (training step), and "hp_metric" logging in tensorboard as validation loss" was implemented
+- EMLO2_S3_dvc_optuna_logger_V2.ipynb -> Colab notebook where "Hyperparam sweep for CIFAR10 dataset with resnet18 from timm" was integrated to 1st part
